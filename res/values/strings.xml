@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ITVLauncher</string>
+    <string name="main_top_item_split">|</string>
+    <string name="main_network_disconnect">Please Connect to Network for Updates</string>
+    <string name="dialog_prompt">Tips</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="moretv">MoreTV</string>
+    <string name="tvstore360">360TVStore</string>
+    <string name="moretv_msg_not_existed">We will Download MoreTV First!</string>
+    <string name="tvstore360_msg_not_existed">We will Download 360TVStore First!</string>
+    <string name="moretv_msg_downloading">MoreTV Downloading...</string>
+    <string name="tvstore360_msg_downloading">360TVStore Downloading...</string>
+    <string name="moretv_download">Download</string>
+    <string name="dialog_network_connect">Network Disconnected, Please Check</string>
+    <string name="helloworld">hello world...</string>
+</resources>

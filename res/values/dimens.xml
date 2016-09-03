@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Top View -->
+    <dimen name="MAIN_TOP_PADTOP">10dip</dimen>
+    <dimen name="MAIN_TOP_PADRIGHT">10dip</dimen>
+    <dimen name="MAIN_TOP_ITEM_PAD">5dip</dimen>
+    <dimen name="MAIN_TOP_ITEM_SIZE">32sp</dimen>
+    <dimen name="MAIN_TOP_WIFI_SIGNAL">48dip</dimen>
+    <dimen name="MAIN_TOP_ETHERNET_LINK">48dip</dimen>
+    <dimen name="MAIN_TOP_SPLIT_HEIGHT">28dip</dimen>
+    <dimen name="MAIN_TOP_WEATHER_SIZE">22sp</dimen>
+    
+    <!-- Setting -->
+    <dimen name="SETTING_TITLE_SIZE">30sp</dimen>
+    <dimen name="SETTING_DETAIL_SIZE">25sp</dimen>
+    <dimen name="SETTING_DETAIL_LINE_SPACE">6dip</dimen>
+    <dimen name="SETTING_DETAIL_WIDTH">800dip</dimen>
+    <dimen name="SETTING_TITLE_PADTOP">20dip</dimen>
+    <dimen name="SETTING_DETAI_PADTOP">14dip</dimen>
+    <dimen name="SETTING_CONTENT_PADTOP">40dip</dimen>
+    
+</resources>

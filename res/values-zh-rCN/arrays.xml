@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="topmenu_array">
+        <item>热门推荐</item>
+        <item>影视分类</item>
+        <item>网络电视</item>
+        <item>游戏</item>
+        <item>应用</item>
+        <item>设置</item>
+    </string-array>
+    
+    <string-array name="apps_default_app_array">
+        <item>应用市场</item>
+        <item>安装与管理</item>
+        <item>全部应用</item>
+    </string-array>
+    
+    <string-array name="category_array">
+        <item>电影</item>
+        <item>纪录片</item>
+        <item>综艺</item>
+        <item>电视剧</item>
+        <item>动漫</item>
+        <item>资讯</item>
+        <item>音乐</item>
+    </string-array>
+    
+    <string-array name="nettv_array">
+        <item>阿狸回看</item>
+        <item>直播台</item>
+        <item>VST云电视</item>
+        <item>电视大师</item>
+    </string-array>
+    
+    <string-array name="setting_array">
+        <item>高级设置</item>
+        <item>网络设置</item>
+        <item>存储信息</item>
+        <item>显示设置</item>
+        <item>版本升级</item>
+        <item>声音设置</item>
+        <item>设备信息</item>
+        <item>语言设置</item>
+    </string-array>
+</resources>

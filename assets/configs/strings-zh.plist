@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>topmenu_array</key>
+    <dict>
+      <key>menu_hotitem</key>
+      <string>热门推荐</string>
+      <key>menu_categoryitem</key>
+      <string>影视分类</string>
+      <key>menu_nettvitem</key>
+      <string>网络电视</string>
+      <key>menu_gameitem</key>
+      <string>游戏</string>
+      <key>menu_appitem</key>
+      <string>应用</string>
+      <key>menu_settingitem</key>
+      <string>设置</string>
+    </dict>
+  </dict>
+</plist>

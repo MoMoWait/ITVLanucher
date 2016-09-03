@@ -1,0 +1,67 @@
+<com.rockchip.itvbox.view.MainTopView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_gravity="center_vertical"
+    android:gravity="right|center_vertical"
+    tools:context=".ITVBoxActivity"
+    android:paddingTop="@dimen/MAIN_TOP_PADTOP"
+    android:paddingRight="@dimen/MAIN_TOP_PADRIGHT">
+
+    <!-- ethernet link -->
+    <ImageView
+        android:id="@+id/img_ethernet_link"
+        android:layout_width="@dimen/MAIN_TOP_ETHERNET_LINK"
+        android:layout_height="@dimen/MAIN_TOP_ETHERNET_LINK"
+        android:visibility="gone"
+        android:src="@drawable/ic_settings_ethernet"
+        android:contentDescription="@null"
+    	android:paddingRight="@dimen/MAIN_TOP_ITEM_PAD"
+     />
+    <!-- wifi 信号 -->
+    <ImageView
+        android:id="@+id/img_wifi_signal"
+        android:layout_width="@dimen/MAIN_TOP_WIFI_SIGNAL"
+        android:layout_height="@dimen/MAIN_TOP_WIFI_SIGNAL"
+        android:visibility="gone"
+        android:contentDescription="@null"
+    	android:paddingRight="@dimen/MAIN_TOP_ITEM_PAD"
+     />
+    <!--  时间  -->
+    <TextView 
+        android:id="@+id/txt_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:visibility="gone"
+        android:gravity="center"
+        android:textSize="@dimen/MAIN_TOP_ITEM_SIZE"
+    	android:paddingRight="@dimen/MAIN_TOP_ITEM_PAD"/>
+    <ImageView 
+        android:id="@+id/img_top_split"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/MAIN_TOP_SPLIT_HEIGHT"
+        android:src="@drawable/main_top_split"
+        android:contentDescription="@null"
+        android:visibility="gone"
+    	android:paddingRight="@dimen/MAIN_TOP_ITEM_PAD"/>
+    <!-- 天气图标 -->
+	<ImageView
+        android:id="@+id/img_weather"
+        android:layout_width="@dimen/MAIN_TOP_SPLIT_HEIGHT"
+        android:layout_height="@dimen/MAIN_TOP_SPLIT_HEIGHT"
+        android:visibility="gone"
+        android:contentDescription="@null"
+    	android:paddingRight="@dimen/MAIN_TOP_ITEM_PAD"
+        />
+	<!-- 天气名称-->
+    <TextView 
+        android:id="@+id/txt_weather"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:textSize="@dimen/MAIN_TOP_WEATHER_SIZE"
+    	android:paddingRight="@dimen/MAIN_TOP_ITEM_PAD"/>
+
+</com.rockchip.itvbox.view.MainTopView>

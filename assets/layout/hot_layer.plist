@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+
+
+-------------------  ------------------------------------------  ----------------------------------------------
+|                 |  |                                         | |                    |           |           |
+|                 |  |                    3                    | |                    |           |           |
+|                 |  |                                         | |                    |     6     |      7    |
+|                 |  |                                         | |                    |           |           |
+|                 |   --------------------- -------------------- |          4         |-----------------------|
+|                 |  |                    | |                  | |                    |                       |
+|                 |  |                    | |                  | |                    |                       |
+|       0         |  |          1         | |         2        | |                    |           5           |
+|                 |  |                    | |                  | |                    |                       |
+|                 |  |                    | |                  | |                    |                       |  
+------------------   -------------------------------------------  --------------------------------------------
+-->
+
+<plist version="1.0">
+<dict>
+  <!-- 270x405 -->
+  <key>item0</key>
+  <dict>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>0</integer>
+    <key>ref</key>
+    <integer>0</integer>
+    <key>width</key>
+    <string>0.2109</string>
+    <key>height</key>
+    <string>0.5625</string>
+  </dict>
+
+  <!-- 200x200 -->
+  <key>item1</key>
+  <dict>
+    <key>x</key>
+    <integer>1</integer>
+    <key>y</key>
+    <integer>0</integer>
+    <key>ref</key>
+    <integer>0</integer>
+    <key>width</key>
+    <string>0.15625</string>
+    <key>height</key>
+    <string>0.2778</string>
+  </dict>
+
+  <!-- 200x200 -->
+  <key>item2</key>
+  <dict>
+    <key>x</key>
+    <integer>2</integer>
+    <key>y</key>
+    <integer>0</integer>
+    <key>ref</key>
+    <integer>1</integer>
+    <key>width</key>
+    <string>0.15625</string>
+    <key>height</key>
+    <string>0.2778</string>
+  </dict>
+
+  <!-- 405x200 -->
+  <key>item3</key>
+  <dict>
+    <key>x</key>
+    <integer>1</integer>
+    <key>y</key>
+    <integer>1</integer>
+    <key>ref</key>
+    <integer>1</integer>
+    <key>width</key>
+    <string>0.3164</string>
+    <key>height</key>
+    <string>0.2778</string>
+  </dict>
+
+  <!-- 250x405 -->
+  <key>item4</key>
+  <dict>
+    <key>x</key>
+    <integer>3</integer>
+    <key>y</key>
+    <integer>0</integer>
+    <key>ref</key>
+    <integer>2</integer>
+    <key>width</key>
+    <string>0.1953</string>
+    <key>height</key>
+    <string>0.5625</string>
+  </dict>
+
+  <!-- 405x200 -->
+  <key>item5</key>
+  <dict>
+    <key>x</key>
+    <integer>4</integer>
+    <key>y</key>
+    <integer>0</integer>
+    <key>ref</key>
+    <integer>4</integer>
+    <key>width</key>
+    <string>0.3164</string>
+    <key>height</key>
+    <string>0.2778</string>
+  </dict>
+
+  <!-- 200x200 -->
+  <key>item6</key>
+  <dict>
+    <key>x</key>
+    <integer>4</integer>
+    <key>y</key>
+    <integer>1</integer>
+    <key>ref</key>
+    <integer>5</integer>
+    <key>width</key>
+    <string>0.15625</string>
+    <key>height</key>
+    <string>0.2778</string>
+  </dict>
+
+  <!-- 200x200 -->
+  <key>item7</key>
+  <dict>
+    <key>x</key>
+    <integer>5</integer>
+    <key>y</key>
+    <integer>1</integer>
+    <key>ref</key>
+    <integer>6</integer>
+    <key>width</key>
+    <string>0.15625</string>
+    <key>height</key>
+    <string>0.2778</string>
+  </dict>
+</dict>
+</plist>

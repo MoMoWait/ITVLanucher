@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="topmenu_array">
+        <item>Recommend</item>
+        <item>Category</item>
+        <item>OnlineTV</item>
+        <item>Game</item>
+        <item>App</item>
+        <item>Setting</item>
+    </string-array>
+    
+    <string-array name="apps_default_app_array">
+        <item>AppStore</item>
+        <item>ApkInstaller</item>
+        <item>AllApps</item>
+    </string-array>
+    
+    <string-array name="category_array">
+        <item>Movie</item>
+        <item>Documentary</item>
+        <item>Variety</item>
+        <item>TV</item>
+        <item>Anime</item>
+        <item>News</item>
+        <item>Music</item>
+    </string-array>
+    
+    <string-array name="nettv_array">
+        <item>Lookback</item>
+        <item>Live</item>
+        <item>VST</item>
+        <item>TVMaster</item>
+    </string-array>
+    
+    <string-array name="setting_array">
+        <item>Advance</item>
+        <item>Networks</item>
+        <item>Storage</item>
+        <item>Display</item>
+        <item>Upgrade</item>
+        <item>Sound</item>
+        <item>DeviceInfo</item>
+        <item>Language</item>
+    </string-array>
+</resources>

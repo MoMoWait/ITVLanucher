@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Setting -->
+    <dimen name="SETTING_TITLE_SIZE">44sp</dimen>
+    <dimen name="SETTING_DETAIL_SIZE">36sp</dimen>
+    <dimen name="SETTING_DETAIL_LINE_SPACE">11dip</dimen>
+    <dimen name="SETTING_DETAIL_WIDTH">1200dip</dimen>
+    <dimen name="SETTING_TITLE_PADTOP">30dip</dimen>
+    <dimen name="SETTING_DETAI_PADTOP">30dip</dimen>
+    <dimen name="SETTING_CONTENT_PADTOP">60dip</dimen>
+</resources>

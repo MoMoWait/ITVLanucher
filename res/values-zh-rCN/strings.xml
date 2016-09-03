@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ITVLauncher</string>
+    <string name="main_top_item_split">|</string>
+    <string name="main_network_disconnect">请连接网络,获取更新</string>
+    <string name="dialog_prompt">提示</string>
+    <string name="dialog_ok">确定</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="moretv">电视猫(MoreTV)</string>
+    <string name="tvstore360">360电视助手</string>
+    <string name="moretv_msg_not_existed">需要下载电视猫(MoreTV)应用才可使用此功能</string>
+    <string name="tvstore360_msg_not_existed">需要下载360电视助手才可使用此功能</string>
+    <string name="moretv_msg_downloading">正在下载电视猫(MoreTV)...</string>
+    <string name="tvstore360_msg_downloading">正在下载360电视助手...</string>
+    <string name="moretv_download">点击下载</string>
+    <string name="dialog_network_connect">网络已断开, 请先连接网络</string>
+</resources>

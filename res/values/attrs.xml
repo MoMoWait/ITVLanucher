@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TextAreaView">     
+        <attr name="text" format="reference|string"/>
+        <attr name="textSize" format="reference|dimension"/>
+        <attr name="textColor" format="reference|color"/>
+        <attr name="lineSpacingExtra" format="reference|dimension"/>
+        <attr name="needIndent" format="reference|boolean"/>
+        <attr name="paddingLeft" format="reference|dimension"/>
+        <attr name="paddingTop" format="reference|dimension"/>
+        <attr name="paddingBottom" format="reference|dimension"/>
+        <attr name="paddingRight" format="reference|dimension"/>
+	</declare-styleable>
+</resources>
